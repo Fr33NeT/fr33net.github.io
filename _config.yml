@@ -15,10 +15,10 @@ remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
 minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "snowscan.io"
+locale                   : "en-ES"
+title                    : "fr33net.io"
 title_separator          : "-"
-name                     : "Snowscan"
+name                     : "Fr33NeT"
 description              : "Posts about security, CTFs and networking"
 url                      : "https://snowscan.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Snowscan"
+  name             : "Fr33NeT"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Pentester, CTF player<br>HackTheBox ATeam"
-  location         : "Canada"
-  email            : "info@snowscan.io"
+  bio              : "Pentester, Gaming>Hacker"
+  location         : "Colombia"
+  email            : "Fr33Net@proton.me"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,10 +114,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "slemire"
+  github           : "Fr33NeT"
   gitlab           :
   google_plus      :
-  keybase          : "snowscan"
+  keybase          : "Fr33NeT"
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
@@ -126,11 +126,11 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "snowscan"
+  twitter          : "cio37537173"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : # "https://www.youtube.com/channel/UCnrEcTsYMULD69f2xJwmgDA"
 
 
 # Reading Files
